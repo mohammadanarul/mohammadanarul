@@ -16,6 +16,13 @@
 
 - 🤝 I’m looking for help with **Course Management**
 
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=mohammadanarul&theme=react-dark&hide_border=true&area=true)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadanarul"></img>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
